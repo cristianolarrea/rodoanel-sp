@@ -13,7 +13,7 @@ Foram utilizados dois bancos de dados GeoJson:
 ## A visualização
 Para a criação da visualização, foi utilizado a biblioteca Folium.
 
-![](C:\Users\Rian_\rodoanel-sp\images\rodoanelmapa.png)
+![](images\rodoanelmapa.png)
 
 O arquivo principal desse projeto é o notebook 'rodoanel-sp.ipynb'
 
