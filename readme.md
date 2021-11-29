@@ -1,6 +1,10 @@
 # Rodoanel de São Paulo
 O objetivo deste projeto é criar uma visualização, através de banco de dados GeoJson, que ilustre por quais cidades o Rodoanel de São Paulo passa.
 
+## Membros
+- Rian Freitas
+- Cristiano Larréa
+
 ## Bancos de Dados utilizados 
 Foram utilizados dois bancos de dados GeoJson:
 - Cidades de São Paulo: que pode ser encontrado [aqui](https://github.com/tbrugz/geodata-br).
