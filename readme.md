@@ -8,6 +8,9 @@ Foram utilizados dois bancos de dados GeoJson:
 
 ## A visualização
 Para a criação da visualização, foi utilizado a biblioteca Folium.
+
+![Mapa do Rodoanel](images\rodoanel-mapa.png)
+
 O arquivo principal desse projeto é o notebook 'rodoanel-sp.ipynb'
 
 *Projeto feito como atividade da disciplina de Banco de Dados da FGV-EMAp*
