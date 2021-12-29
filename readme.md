@@ -1,7 +1,7 @@
 # Rodoanel de São Paulo
 O objetivo deste projeto é criar uma visualização, através de banco de dados GeoJson, que ilustre por quais cidades o Rodoanel de São Paulo passa.
 
-![](https://user-images.githubusercontent.com/85463854/147681576-b067cb46-f929-4291-a39c-12ddcbb42a25.png)efcc4
+![Rodoanel Governador Mário Covas](https://user-images.githubusercontent.com/85463854/147681576-b067cb46-f929-4291-a39c-12ddcbb42a25.png)
 
 ## Membros
 - Rian Freitas
